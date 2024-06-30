@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       2f03f704-f751-4c57-93c6-06301f68ccfe
+:END:
+#+title: Conditioning vs Causal Learning
+
+Per the Pearl's Causal Hierarchy, there are three levels: association, intervention, counterfactuals.
+
+Preliminary glance of the below material indicates that causal learning for interventions can be explained in terms of temporal associative learning. What then is the difference between [[id:04942dca-e5d1-4807-aaa3-9eddd3b24e66][Temporal Associations and Causality]]?
+
+References (TODO: Go through them):
+
+1. https://link.springer.com/article/10.3758/s13420-012-0075-5
+2. https://www.taylorfrancis.com/chapters/edit/10.4324/9781410600691-7/contingency-learning-causal-reasoning-baker-robin-murphy-fr%C3%A9d%C3%A9ric-vall%C3%A9e-tourangeau-rick-mehta
+

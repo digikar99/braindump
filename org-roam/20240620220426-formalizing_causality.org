@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       20428c0a-b49d-4569-83f4-14ad771a798a
+:END:
+#+title: Formalizing Causality
+
+See Pearl's book on [[https://bayes.cs.ucla.edu/BOOK-2K/][Causality: Models, Reasoning, and Inference]].

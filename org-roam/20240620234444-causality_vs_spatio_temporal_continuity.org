@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       8eae860b-bc3f-4766-a701-fc25324d520a
+:END:
+#+title: Causality vs Spatio-temporal continuity (Psychology)
+
+Sometimes, we do rely on Spatio-temporal continuity to infer causal effects. Examples of this include Michotte-type launching events. See [[https://perception.yale.edu/Brian/demos/Causality-Grouping.html][this]] or [[https://www.jfkominsky.com/Research.html][this]].
+
+However, at several other times, we seem to merely rely on temporal continuity but not necessarily on spatial continuity. For example, when knocking a switch on/off turns a light-bulb on/off, we can guess that the two might be causally connected.
+
+However, recall that temporal continuity of two events (or states?) promotes [[id:1192cb68-4505-4574-ac32-b071a6984ee7][Conditioning]], either Classical or Operant. [[id:2f03f704-f751-4c57-93c6-06301f68ccfe][Could mechanisms underlying operant conditioning also be used for (intuitive) Causal Learning?]]

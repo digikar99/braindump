@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       275ec1f9-d680-4260-9de6-bbf2d49be164
+:END:
+#+title: Causal Learning through Culture in Children
+
+Given the [[id:f9463952-6478-4ea8-91d6-4f856720a8d4][Cultural dependency of Causal Models]], the question remains: how do we - starting as children - acquire our understanding of the world from others?
+
+The easiest answer is through language. Children don't just ask for labels of objects, but also ask /why/.

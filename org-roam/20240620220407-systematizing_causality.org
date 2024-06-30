@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       04cb17de-26a7-4c50-8bc3-4eda368a4319
+:END:
+#+title: Systematizing Causality
+
+I'll consider this a more general term than [[id:20428c0a-b49d-4569-83f4-14ad771a798a][Formalizing Causality]], as this can include non-formal methods that can be pondered upon, understood, and executed by humans in a systematic manner. Causality, once systematized, can also be taught to humans through a course but not necessary to machines.
+
+A potentially good book to systematize causality is [[https://www.goodreads.com/book/show/9416017-causal-inference][Causal Inference: What If by Hernán and Robins]]. See my summary notes [[https://digikar99.github.io/permalink/hernan-robins-what-if.html][here]]. 
+
+Future Work: 
+
+- Look up courses on teaching causality to psychology, medical, or social scientists, or researchers from other fields that deal with populations of humans, animals or plants.
+- Go through the 'Causal Inference' book above and summarize it. 

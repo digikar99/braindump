@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       d95061e4-0bff-4bcc-8d45-15307aaba8f5
+:END:
+#+title: Teleological Models
+
+[[id:723fc245-dffe-40d6-915c-59c529816011][Causal Models]] tell us what will happen if we intervene, or what would have happened if something was different. 
+
+The following is a hunch: They don't quite tell us what should we do to achieve a particular state of affairs. However, if the Structural Causal Model is invertible, it is straightforward to go to the means from the ends.
+
+Another hunch: Causal Models do not really incorporate the notion of goals and purposes. But it seems even infants recognize goals and purposes. TODO: Collect citation.
+
+Teleological models should enable working with goals and purposes. TODO: What exactly should they look like? How or why exactly would they be different from causal models?
+
+TODO: Can't both Causal and Teleological Models collapse to Associations?

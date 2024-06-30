@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       647aead1-870c-4821-a65b-eb582d1a0cdf
+:END:
+#+title: Using Causality
+
+Causal information allows us to perform interventions. This means we can act on the environment in order to change it to meet particular goals.
+
+1. In machine learning, by [[id:20428c0a-b49d-4569-83f4-14ad771a798a][Formalizing Causality]].
+2. In statistical analyses by human researchers by [[id:04cb17de-26a7-4c50-8bc3-4eda368a4319][Systematizing Causality]].
+
+TODO: Causality also seems to involve a notion of agency. However, the exact relation between causality and agency remains unexplored by me.
