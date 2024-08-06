@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       e1513bcc-1212-41e9-906d-f8422fd63d79
+:END:
+#+title: Representations (Computer Science)
+
+A single physical object has multiple /features/ - perhaps, indefinitely many. For a given task, goal, or computation, only some of these features are relevant. These /relevant features/ are the only ones that find their way into a formalization or a computer program. Thus, the physical object may be said to be /represented/ by the /relevant features/.

@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       88b82cb6-40fb-4e1e-a609-80e208982baf
+:ROAM_REFS: [[cite:&Moll2011Perspective]]
+:END:
+#+title: Gaze Following
+
+Even in the first six months of their life, human infants follow the other person's gaze when the target object is inside their own visual field. By around 12 months, gaze following behavior becomes much more robust and they follow the other person's gaze even when it is directed towards an object behind them. They also understand when other person's visual field is blocked.
+
+[[id:8a93ec60-214b-4b52-99eb-a34caa42c30a][Gaze Following is also performed by non-human primates, dolphins and ravens.]]

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       73781f6c-c53d-4fdb-9981-98240abad237
+:ROAM_REFS: [[cite:&fodor2008lot]] [[cite:&pylyshyn2007book]]
+:END:
+#+title: Nonconceptual Representation
+
+Usually, a [[id:c452d96a-3a9b-4803-9913-4b0d48c8a5bf][representation]] corresponds to a concept or category and thus necessarily involves an interpretation. However, this raises [[id:dc264d75-bffa-44a0-b6c4-c9d10cb02086][certain issues]].
+
+On the other hand, /Nonconceptual representations/ avoid interpretation and allow the organism to access its environment without already conceptualizing or categorizing into preexisting concepts.
+
+TODO: Are nonconceptual representations of Fodor same as registrations of Pylyshyn?
+
+Reference:
+
+1. Fodor, Jerry A., LOT 2: The Language of Thought Revisited (Oxford, 2008; online edn, Oxford Academic, 1 Feb. 2010), https://doi.org/10.1093/acprof:oso/9780199548774.001.0001, accessed 18 July 2024.
+
+2. Pylyshyn, Z. (2007). Things and Places: How the Mind Connects with the World. MIT Press.
+
+

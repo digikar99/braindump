@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       61e48949-e20b-497e-9f50-0c7dbc069a8c
+:ROAM_REFS: [[cite:&keil2022wonder]]
+:END:
+#+title: Wonder vs Awe
+
+Awe might be described as a feeling of amazement and is rather passive. Keil argues that wonder goes beyond merely a feeling and involves actively experimenting with the environment. 

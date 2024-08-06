@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       c452d96a-3a9b-4803-9913-4b0d48c8a5bf
+:END:
+#+title: Representations (CogSci)
+
+Representations are a physical symbol/code used by an [cognitively advanced] organism in its mental operation or computation.
+
+Intuitively, representations are the mental objects appearing in our thoughts and beliefs. However, they are expected to have a neural imprint in the brain. TODO: Issues with neurophysical markers of mental representations?
+
+Representations may have referents but they need not. For example, the mental object 'a pot of gold' is a representation [in someone's mind - your or mine or another organism]. However, unless the pot of gold actually exists in reality, the representation does not actually have a referent! However, representations have [[id:3bfb7074-e9bb-46a0-9b07-6a7bbeaa9846][Representational Content]].

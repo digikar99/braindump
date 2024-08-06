@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       c8405f6f-bc7c-4fc7-9d13-f52a950fd64a
+:ROAM_REFS: [[cite:&Leslie1987]]
+:END:
+#+title: Behavioral Definition of Pretense is Difficult
+
+One and the same behavior (eg. Child making "brrr" noises as it moves the toy car) can result from either Functional Play or Pretend Play.
+
+This issue is an instance of [[id:06c35b0f-2cd8-4a16-bae3-2653dd8f5f7f][Non-identifiability of Behavioral Definitions]]. 

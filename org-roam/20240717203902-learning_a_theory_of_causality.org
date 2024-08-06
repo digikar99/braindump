@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7afa4769-2a62-4bb0-939c-6abb7ca97fa4
+:ROAM_KEY: [[cite:Goodman2011]]
+:END:
+#+title: Learning a Theory of Causality
+
+Reference: Goodman, N. D., Ullman, T. D., & Tenenbaum, J. B. (2011). Learning a theory of causality. Psychological review, 118(1), 110–119. https://doi.org/10.1037/a0021336
+
+The paper proposes that the Causal Bayes Net [[id:3786c406-d58c-480b-afea-b876583e8e67][Interventionist account of Causality]] can be learnt from evidence, given a certain [[id:dbd496ae-2021-4de1-a77f-c48ebac5f631][Language of Thought imbued with aspects of Probability and Logic]]. This claim is primarily theoretical and the paper itself cautions against it being interpreted in an empiricist viewpoint. Thus, if one is in favour of [[id:6d48b4cc-2998-4789-bcc4-ec038c00c4e0][Psychological Realism of Models]], the contents of the paper remain in need of elaboration.
+
+

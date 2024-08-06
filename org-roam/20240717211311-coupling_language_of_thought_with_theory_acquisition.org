@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       73bbe3fe-2c56-4e22-b0f4-ffe26f36ec37
+:END:
+#+title: Coupling Language of Thought with Theory Acquisition
+
+TODO

@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       ee1eb0d1-9c3f-4e60-9f36-7edca013f618
+:END:
+#+title: Cognitive Science as Systematic Folk Psychology
+
+I think one of the main goals of Cognitive Science (or Psychology) should be to provide a systematic way to describe, explain, and predict all the phenomena that [[id:fbec938b-0bee-4027-a45a-a70a9e3cbdf4][Folk Psychology]] can.
+
+This might perhaps be a metatheoretical commitment not ammenable to falsification.
+
+TODO: This assumes Folk Psychology is unsystematic. Is it so? What does being systematic mean? Is it akin to the rigor attributed to Physics? But if one agrees with Hubert Dreyfus, there are limits to formalization.
+
+TODO: Elaborate on Describe, Explain, Predict.

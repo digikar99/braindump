@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       dc35ac51-aa39-417b-a67a-181113b14b2a
+:END:
+#+title: Compositionality of LOT
+
+Compositionality indicates that the meaning of a sentence is determined by the relation between its parts, instead of being arbitrary. Thus, a belief (or its [[id:3bfb7074-e9bb-46a0-9b07-6a7bbeaa9846][content]]) corresponding to the mentalese sentence "Whales are mammals" is determined by the belief (content) of the "whale" put together with "mammal" with the relation "<A> are <B>".

@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       ba4fbb9c-414e-4a15-b3ab-d6426b07659f
+:END:
+#+title: Representations in CogSci vs CompSci
+
+Representations feature in both [[id:c452d96a-3a9b-4803-9913-4b0d48c8a5bf][Cognitive Science]] as well as [[id:e1513bcc-1212-41e9-906d-f8422fd63d79][Computer Science]]. 
+
+Perhaps, a distinguishing feature of the two is that, atleast as adult humans, it is possible for us to consider a token object without necessarily classifying or categorizing it as something else, that is, without making it into a type. While communicating with others, we necessarily convey the object in terms of its type or atleast its feature-types, inside our own heads, it seems perfectly plausible to hold the object as unclassified or unknown. In other words, as adult humans, and also as preconceptual babies, we have what may be called [[id:73781f6c-c53d-4fdb-9981-98240abad237][Nonconceptual Representations]]. It looks unclear to me whether the traditional senses of programming, software development, artificial agents, machine learning or deep learning, make a distinction between Conceptual vs Nonconceptual Representations. Such a distinction is infact often also absent from mainstream cognitive science discussions.
+
+Through the notion of nonconceptual representations, it becomes possible for us to evaluate whether the distal stimulus that is a referent of the nonconceptual representation actually satisfies the [[id:3bfb7074-e9bb-46a0-9b07-6a7bbeaa9846][satisfaction conditions of the conceptual representation]]. 
+
+*Sidenote:* /Are these really the right words to convey this? Do nonconceptual representations have referents?/ I'd argue yes they do. Nonconceptual representations necessarily have a referent that /caused/ them. What they perhaps do not have are the satisfaction conditions that conceptual representations have. They cannot misrepresent.

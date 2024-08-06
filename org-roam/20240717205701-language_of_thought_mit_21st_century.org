@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       dbd496ae-2021-4de1-a77f-c48ebac5f631
+:ROAM_KEY: [[cite:Kemp2018]]
+:END:
+#+title: Language of Thought (MIT, 21st century)
+
+Reference: Kemp, C., Goodman, N. D., & B. Tenenbaum, J. (2018). Theory Acquisition and the Language of Thought (Version 1). Carnegie Mellon University. https://doi.org/10.1184/R1/6618818.v1
+
+The paper seems to leave a number of notions clouded in mystery:
+
+- What is a Concept?
+- What is a Theory?
+- What is Content of Theory?
+
+TODO: May be these are described in the reference works?
+
+The paper proposes that Bayesian Inference can be used to delineate the theories compatible with evidence. [[id:6ac71cbb-92c6-499c-89d6-f9daf88dbc57][Language of Thought]] is itself an old concept and is probably best attributed to Fodor. Over the years, I'm certain numerous issues would have been raised against that framework, and I wonder if delineating the compatible theories from amongst the incompatible ones is a critical issue.
+
+Perhaps, more important than the above proposal is the idea that [[id:73bbe3fe-2c56-4e22-b0f4-ffe26f36ec37][language of thought should be tightly coupled with theories for acquiring them]].

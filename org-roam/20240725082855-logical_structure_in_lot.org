@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       a9057485-6909-439b-ae24-43d001ff926d
+:ROAM_REFS: https://plato.stanford.edu/entries/language-thought/
+:END:
+#+title: Logical Structure in LOT
+
+Some proponents of LOT claim that mentalese operates over the familiar logical connectives such as: and, or, not, if-then, there-exists, all. However, the exact logical language has changed from syllogistic, to propositional, to predicate (first order) logic, to probabilistic logic, and perhaps others. 
+
+However, most (almost all?) mainstream formalisms suffer from [[id:063a9025-d908-4684-8631-f320cb2841d6][various problems]].

@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       06b6b523-a265-488d-9303-079e227e45bb
+:ROAM_REFS: [[cite:&keil2022wonder]]
+:END:
+#+title: Wonder vs Curiosity
+
+Wonder differs from [[id:5fb4fb8a-7ba4-4f7f-b083-1ad383bd36c5][Curiosity]], as the latter can be centered around atomic facts. Wonder is more akin Curiosity about Mechanism.

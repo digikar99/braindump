@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       6ac71cbb-92c6-499c-89d6-f9daf88dbc57
+:ROAM_KEY: https://plato.stanford.edu/entries/language-thought/
+:END:
+#+title: Language of Thought
+
+The claim is that mental operations are akin to the computations made over a formal language called /mentalese/. Amongst the different characteristics of mentalese, perhaps the central one is [[id:dc35ac51-aa39-417b-a67a-181113b14b2a][compositionality]].
+
+Other characteristics include: [[id:a9057485-6909-439b-ae24-43d001ff926d][logical structure]] and [[id:b131514e-c81f-43d5-abd0-f5f898558c47][intentionality]].
+
+* References:
+
+1. The Language of Thought Hypothesis (Stanford Encyclopedia of Philosophy) --- plato.stanford.edu. https://plato.stanford.edu/entries/language-thought/, [Accessed 25-07-2024]
+2. Fodor, Jerry A., LOT 2: The Language of Thought Revisited (Oxford, 2008; online edn, Oxford Academic, 1 Feb. 2010), https://doi.org/10.1093/acprof:oso/9780199548774.001.0001, accessed 18 July 2024.

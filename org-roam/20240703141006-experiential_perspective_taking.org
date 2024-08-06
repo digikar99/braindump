@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       ed8d563f-1216-49c4-b329-bea4488e802a
+:END:
+#+title: Experiential Perspective Taking
+
+12 and 18 month old human infants keep track of what the other person is experiencing. As a result, they can also determine what is novel to the other person. See [[citet:&Moll2011Perspective]] for additional paradigms.
+
+TODO: An unanswered question might be: Do infants keep track of the experiences of almost every person they witness experiencing?

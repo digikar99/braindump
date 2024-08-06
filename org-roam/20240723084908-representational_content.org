@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       3bfb7074-e9bb-46a0-9b07-6a7bbeaa9846
+:END:
+#+title: Representational Content
+
+Even though [[id:c452d96a-3a9b-4803-9913-4b0d48c8a5bf][representations]] need not have a referent, each [conceptual?] representation comes with its /satisfaction conditions/. The set of objects or stimuli (physical or imaginary) that satisfy these conditions form the /representational content/ of the representation.

@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       06c35b0f-2cd8-4a16-bae3-2653dd8f5f7f
+:END:
+#+title: Non-identifiability of Behavioral Definitions
+
+A particular behavior (Leg hitting the ball) has a unique physical or neural cause in its immediate temporal neighborhood. However, [[id:fbec938b-0bee-4027-a45a-a70a9e3cbdf4][Folk Psychology]] allows for the same behavior to be interpreted differently depending on the "background", for example
+
+- The person playing football and making a pass
+- The person's leg accidentally hitting it
+- The person being angry and hitting the ball to break something / hit someone
+
+TODO: What are the proper terms used in the psychology, philosophy or cognitive science literature for this phenomena?

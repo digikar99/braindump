@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       419c2c34-c48f-4851-b7c7-59a42f2c2e82
+:END:
+#+title: The Undecidability of Veridicality
+
+It seems to me that [[id:d6eea95c-cc3c-44ef-8725-3fc69f7b2850][veridicality]] involves an assessment of a representation with respect to the reality. However, true reality cannot be know. What we only have is the version of reality that is in our heads.
+
+It seems arbitrary and unfounded to assume that a representation can be veridical with respect to something in the scientist's head.
+
+TODO: Do I understand veridicality correctly?

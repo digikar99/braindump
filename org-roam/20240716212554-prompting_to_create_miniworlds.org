@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       a89862dd-8e61-45fc-88d9-0944bd47679e
+:END:
+#+title: Prompting to Create Miniworlds 
+
+Perhaps a key to achieve AGI might be based on how intuitively humans can create worlds from words. A child does this through [[id:20997eac-fa20-4f85-a24f-cefe61da5b06][Wonder]] - by seeking explanations from others, validating those explanations through experimentation aka play.
+
+The idea then is to use textual prompts to create [[id:4fbaec1f-4d09-4c1a-9621-ceeab7a00837][Causal Models]] - and then using these causal models to answer questions, as well as generating images and videos.
+
+FIXME: Is that really the relevant context for the term 'Wonder' used in the book?

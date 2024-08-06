@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       b131514e-c81f-43d5-abd0-f5f898558c47
+:END:
+#+title: Intentionality of LOT
+
+The relations between and the properties of mathematical objects follow from the axioms that make up the mathematical theory. Similarly, the inferences of a computer program result from the rules encoded in the processor alongwith the data in its memory. To explain the truth of a mathematical claim or the working of a computer program, one does not need to invoke anything more. In particular, neither the automated-prover or computer nor the human scientist need to talk about the relation between the mathematical objects or the program variables and the objects in the "outside" world.
+
+However, either in the organism's head or atleast the scientist's, symbols appearing in Language of Thought are Conceptual Representations with a [[id:3bfb7074-e9bb-46a0-9b07-6a7bbeaa9846][Representational Content]]. In other words, given an entity in the external world, it is possible for the organism to choose between different conceptual representations for it. The organism's cognitive system may perform inferences on one of these conceptual representations / symbols.

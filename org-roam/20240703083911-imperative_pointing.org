@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       f76546ea-3368-408f-b2f4-a841c05f5ef8
+:END:
+#+title: Imperative Pointing
+
+A common use of Pointing is to request objects. This is common with both humans and non-human primates.

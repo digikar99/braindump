@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       774388ef-1a1a-40f1-a0ae-c94303620f07
+:END:
+#+title: Visual Perspective Taking
+
+Around 2 to 2.5 years of age, children can understand that others may not see what they see.  See citet:&Moll2011Perspective for experiments.

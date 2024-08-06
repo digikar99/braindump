@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       db27dd53-26fe-4fc4-b1da-99450e7de13f
+:ROAM_REFS: [[cite:&Moll2011Perspective]]
+:END:
+#+title: Non-Imperative Pointing
+
+This is different from [[id:f76546ea-3368-408f-b2f4-a841c05f5ef8][Imperative Pointing]] and is primarily only seen in humans. This involves pointing for the sole purpose of directing the other's attention, or for informing them, or for requesting information.
+

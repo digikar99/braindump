@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       3786c406-d58c-480b-afea-b876583e8e67
 :END:
-#+title: Causality, 20th June 2024
+#+title: Causality as Interventions
 
 The notion of causality may be summarized by "A is a cause of B, or B is an effect of A". This allows us to /intervene/ in order to bring about or prevent B by manipulating A. See [[id:04cb17de-26a7-4c50-8bc3-4eda368a4319][Systematizing Causality]].
 

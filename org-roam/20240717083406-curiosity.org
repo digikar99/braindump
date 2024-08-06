@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       5fb4fb8a-7ba4-4f7f-b083-1ad383bd36c5
+:END:
+#+title: Curiosity
+
+TODO

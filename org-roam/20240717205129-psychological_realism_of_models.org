@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       6d48b4cc-2998-4789-bcc4-ec038c00c4e0
+:END:
+#+title: Psychological Realism of Models
+
+The argument goes that in day-to-day life, no one says that water should be considered 
+"as if" it is H2O. Nor that matter should be considered as if it is made of small particles called atoms.
+
+For all practical purposes, water /is/ H2O and matter /is/ made of atoms, and not merely "as if".
+
+Then, one may argue that even when it comes to psychological theories and models, they should not merely be considered "as if" they are something different from the phenomena. But that they /are/ the phenomena itself. Perhaps, it is still too early for this to happen, but it'd be great to atleast make an attempt towards this.
+
+1. TODO: Recall what Pylyshyn had argued about this.
+2. TODO: Explore what others say about this.

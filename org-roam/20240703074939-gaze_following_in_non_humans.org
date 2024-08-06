@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       8a93ec60-214b-4b52-99eb-a34caa42c30a
+:ROAM_REFS: [[cite:&Moll2011Perspective]]
+:END:
+#+title: Gaze Following in Non-humans
+
+It is known that non-human primates, dolphins and ravens do participate in gaze following. (See reference.) However, TODO: what kinds of animals do not participate in this behavior? Also, TODO: Do autism-like disruptions of shared attention also manifest in non-humans?

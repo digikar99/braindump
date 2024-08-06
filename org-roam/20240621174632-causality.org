@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       723fc245-dffe-40d6-915c-59c529816011
 :END:
-#+title: Causality, 21st June 2024
+#+title: Causality as Counterfactuals
 
 The notion of causality may be summarized by "given that B caused / was prevented after A, had A not occurred, then B would be less/more likely to have occurred". In this case, A becomes a cause of B. This allows us to /counterfactually reason/ in order to bring about or prevent B by manipulating A.
 

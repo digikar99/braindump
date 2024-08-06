@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       81e63f8b-35d8-4714-b3fa-3d44447c0c1b
+:ROAM_REFS: [[cite:&Moll2011Perspective]]
+:ROAM_KEY:  [[cite:Moll2011Perspective]]
+:END:
+#+title: Levels in Perspective Taking
+
+Perspective Taking can be a vague term by itself. Operationalized in one way, experiments suggests children need to be atleast around 3-4 years of age before they can partake in Perspective Taking. Operationalized in Another way, experiments suggest that even infants as young as 11 months old are sensitive to Perspective Taking.
+
+The idea then is to divide Perspective Taking into several skills. Initially, in their first year, (level 0) [[id:c6626052-dae2-4d2d-94a0-0b8564ff8873][infants /know/learn how/ to share attention]]. But they do not yet /know that/ they are different perspectives. By around 12 to 18 months of age, infants can partake in [[id:ed8d563f-1216-49c4-b329-bea4488e802a][Experiential Perspective Taking]]. However, they can perform [[id:774388ef-1a1a-40f1-a0ae-c94303620f07][Visual Perspective Taking]] only around 2 to 3 years of age. [[id:15eac184-2cfc-40bf-9117-b2a612a24ff8][This is counterintuitive.]] (Both level 1.)
+
+It is only after 3 years of age that children understand another person's perspective (level 2a), and only after 4.5 years of age can they confront both perspectives simultaneously - their own as well as another person's perspective (level 2b).
+
+TODO: What this work does not explore is how /exactly/ the different levels of perspective taking build upon each other, as if to provide a mechanical account of the same.
+
+Reference: citet:&Moll2011Perspective

@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       651426c6-02db-43f2-852e-9f596fc0e9eb
+:END:
+#+title: The Need for Representations
+
+While explaining behavior in terms of beliefs and desires of an organism, one notes that it is not important what the exact (distal) stimulus or the object in the environment is. What is important is only how the distal stimulus is interpreted by the organism's cognitive system. The output of this interpretation (which also presumably forms) the mental objects in the organism's head are [[id:c452d96a-3a9b-4803-9913-4b0d48c8a5bf][representations]].
+
+For example, when you misperceive a faraway rope as a snake, you are still bound to be frightened and act cautiously. It doesn't matter whether the distant object is a rope or a pipe or other snake-shaped object. It only matters what you see it as.

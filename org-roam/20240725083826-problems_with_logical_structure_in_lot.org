@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       063a9025-d908-4684-8631-f320cb2841d6
+:END:
+#+title: Problems with Logical Structure in LOT
+
+Compared to traditional mathematical logic, 
+
+1. Cognitive logic/inferences are uncertain.
+2. They operate over an incomplete set of axioms
+3. They can be non-deductive.
+4. They show a number of differing behaviors compared to inferences by traditional logic.
+
+It remains an open question to me which of these are bugs and which features.
+
+TODO: Are there other orthogonal ways in which cognitive inferences differ from mathematical logic, or are the above listed options mutually exhaustive.
+
+* References
+
+1. Wang, P. (2004, May). Cognitive logic versus mathematical logic. In Proceedings of the Third International Seminar on Logic and Cognition (pp. 1-10). China: Guangzhou. https://cis.temple.edu/~pwang/Publication/cognitive_mathematical.pdf
+2. Wang, P. (2013). Non-axiomatic logic: A model of intelligent reasoning. World Scientific.
+
+
+

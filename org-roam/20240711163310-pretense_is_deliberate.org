@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       6b0d8993-9cac-4695-aa17-15a80b3e9b4e
+:ROAM_REFS: [[cite:&Leslie1987]]
+:END:
+#+title: Pretense is Deliberate
+
+Pretense or Pretend Play differs from errors. An error might cause one to misperceive a rope as a snake, or an inedible toy as food. However, in pretend-play, the pretender /knows/ that the toy is actually not food, yet they may deliberately attribute the properties of food to the toy.

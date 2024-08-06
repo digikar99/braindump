@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       a869b5a6-f366-4ab3-8df9-4a84302dbb9b
+:END:
+#+title: Cognitive Architecture
+
+Given [[id:81e63f8b-35d8-4714-b3fa-3d44447c0c1b][Levels in Perspective Taking]], the question arises: what do the different levels mean for how the mind is organized?
+
+1. Initially, what we see is our world.
+2. That there are other agents is builtin.
+3. That other agents have a field of vision is also builtin.
+4. Eventually, because other agents often seem to look at something that is not our world, one may be said to experience a [[id:1360c08b-746b-4f55-abce-96958ef0798b][Cognitive Conflict]] and may conclude that our world is incomplete. In other words, the world exceeds our immediate field of vision, and includes our past visual experience. This is the result of [[id:c6626052-dae2-4d2d-94a0-0b8564ff8873][Sharing Attention aka Level 0 Perspective Taking]].
+
+TODO: Level 1 and Level 2 Perspective Taking

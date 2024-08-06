@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       15eac184-2cfc-40bf-9117-b2a612a24ff8
+:END:
+#+title: Experiential Perspective Taking before Visual
+
+One expects that [[id:ed8d563f-1216-49c4-b329-bea4488e802a][Experiential Perspective Taking]] builds upon [[id:774388ef-1a1a-40f1-a0ae-c94303620f07][Visual Perspective Taking]], after all vision comes first, and experience only after that. However, the reverse has been noted. 
+
+This may be restated as: tracking someone's presence is easier than tracking someone's gaze. In other words, even if someone is physically copresent but not sharing their gaze with oneself, it is easy to mistake their copresence as shared experience. 

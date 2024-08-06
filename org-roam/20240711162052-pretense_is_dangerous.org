@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       f28ea275-cde2-4f72-991c-0fd1e8a8e6ca
+:ROAM_REFS: [[cite:&Leslie1987]]
+:END:
+#+title: Pretense is Dangerous
+
+One expects that an organism's cognitive system would be [[id:d6eea95c-cc3c-44ef-8725-3fc69f7b2850][veridical]] with respect to the environment. Non-veridicality could mean that the organism mistakes poison for food and vice versa.

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       723d0a8b-e8a1-4284-8f97-672c8bf1ffcb
+:ROAM_KEY:  [[cite:&Leslie1987]]
+:END:
+#+title: Benefit of Pretense
+
+Leslie, A. M. (1987). Pretense and representation: The origins of "theory of mind." Psychological Review, 94(4), 412–426. https://doi.org/10.1037/0033-295X.94.4.412
+
+The rough idea is that Pretense is an intermediate step in the development of Theory of Mind. Pretense allows decoupling from reality, which also seems necessary for Theory of Mind.
+
+TODO: Consume the article in more detail.

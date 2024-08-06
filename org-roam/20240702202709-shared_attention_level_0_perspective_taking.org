@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       c6626052-dae2-4d2d-94a0-0b8564ff8873
+:ROAM_REFS: [[cite:&Moll2011Perspective]]
+:END:
+#+title: Shared Attention: Level 0 Perspective Taking
+
+Around 9-12 months of age,
+
+1. Human infants begin to attend to what the other person is attending to
+2. Direct another person's attention by pointing to or showing the person excitedly about an object of their interest
+
+[[id:88b82cb6-40fb-4e1e-a609-80e208982baf][Gaze Following]] is a prime example of the first and [[id:db27dd53-26fe-4fc4-b1da-99450e7de13f][Non-Imperative Pointing]] behaviors of the second. However, sharing or directing attention go beyond Gaze Following and Non-Imperative Pointing behaviors.
