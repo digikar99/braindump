@@ -1,6 +1,20 @@
 :PROPERTIES:
 :ID:       4fbaec1f-4d09-4c1a-9621-ceeab7a00837
 :END:
-#+title: Causal Models
+#+title: Causal Models / Causal Description
 
-TODO
+A causal (meta?)[[id:a3faa958-934f-470e-898d-3b38ffe853d5][model]] specifies:
+
+1. What conditions enable one to say that there is a causal relation - "A causes B" or cause(A, B) - between two happenings?
+2. What kinds of relations one can derive from existing causal relations?
+
+Intuitively (and [[https://en.wikipedia.org/wiki/Causality#Epistemology][according to Hume]]), A causes B if and only if, without A, B would not exist. This may be understood as a necessary and sufficient condition for a causal relation between A and B, since:
+
+1. Necessary: If not A, then not B. Or equivalently, if B, then A.
+2. Sufficient: If A, then B.
+
+However, [[https://en.wikipedia.org/wiki/Causality#Necessary_and_sufficient_causes][according to some]], a causal relation may hold without being necessary nor sufficient. To me, it seems that the different versions of necessity and sufficiency can be subsumed under [[id:3526fa19-62eb-42f4-9e38-4aaac4449964][Structural Causal Models]] which formalizes [[id:723fc245-dffe-40d6-915c-59c529816011][Causality as Counterfactuals]].
+
+
+
+

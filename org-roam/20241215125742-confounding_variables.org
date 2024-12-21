@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       7dfb9638-ead9-4cff-b4cd-d738600a01ec
+:END:
+#+title: Confounding Variables
+
+Given an existing relation between two variables in a particular [[id:1ba50f90-489d-4fe7-acfb-ed20a64a30a7][explanation (or model)]], if the relation does not match one's intuition, one has a tendency to posit a confounding variable in the model. More generally, there is the [[id:3160dcbc-b649-487e-b449-16551f117f93][Reichenbach's Common Cause Principle]].

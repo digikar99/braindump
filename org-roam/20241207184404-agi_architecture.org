@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       4fcccb03-20b4-4764-9844-801303504c93
+:END:
+#+title: AGI Architecture
+
+A phenomena P in the world gets registered as potentially high-dimensional stimulus, call this X_P.
+
+X_P is processed by the architecture $f$ in the context of the system goals or organism state S_t to produce a new state S_{t+1} and potentially high-dimensinal pre-action activations Y_A. Thus,
+
+#+begin_center
+$Y_A, S_{t+1} = f(X_P, S_t)$
+#+end_center
+
+Y_A is acted upon by the actuators to produce an action A. An action may be a usual motor action (say, move a finger) or even an intellectual action (say, write the letter 'O').
+
+Framed this way, the AGI architecture is identical to a [[https://en.wikipedia.org/wiki/Recurrent_neural_network][Recurrent Neural Network]]. The research questions that this framework creates pertain to the good characterizations of:
+
+1. Input registration X_P
+2. Architecture $f and hidden state S
+3. Pre-Action activations Y_A

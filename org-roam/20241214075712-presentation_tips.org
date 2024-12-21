@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       62e26fe0-c386-4e4c-9c32-f6ce75ffaaf7
+:END:
+#+title: Presentation Tips
+
+- Show plots: first axis, then data, slowly
+- Center around a single paradigm presentation

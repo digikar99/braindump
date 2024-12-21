@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       205a01f2-7646-4bf6-9286-424c72069c89
+:END:
+#+title: Exotic Word Embeddings
+
+There is discussion that people can classify knowledge on the basis of goals, access, objects, disciplines, topics and schema. Can this be used to produce different kinds of word embeddings or even different AI architectures? TODO
+

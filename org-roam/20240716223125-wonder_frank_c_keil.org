@@ -4,6 +4,22 @@
 :END:
 #+title: Wonder - Frank C. Keil
 
-TODO
+TODO: Index notes in zettelkasten
 
+* 3. Working with others
 
+*[[id:b5f164f1-68c7-441e-ad26-292537df7cd1][Developmental shifts in knowledge clustering]]*
+
+#+begin_quote
+As they progress through the early school years, children refine these skills and focus on deeper and more elaborated causal patterns. They may also tend to shift in their intuitive ideas of expertise areas from goal oriented categories (e.g., fishing) to more discipline-centered categories (e.g., biology).
+#+end_quote
+
+*[[id:cbc14d9d-5c12-4cd1-9b86-0cb8ec7c9e83][Knowledge Clustering in Other Minds]]*
+
+#+begin_quote
+We then explored the growth of knowledge navigation skills through the
+elementary school years as well as in adults. ... Instead, they assumed that those who had mastery in a domain grasped some deeper causal pattern (e.g., about how inanimate objects move and interact with each other). This insight then
+enabled them to see how other phenomena that are different on the surface, such as those involving boats and basketballs, arise from thesame underlying causal regularities.
+#+end_quote
+
+It's a bit forceful to say that children really organize knowledge as if the different disciplines of a university. See the referenced work to see the future work this involves.

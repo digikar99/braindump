@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       b5f164f1-68c7-441e-ad26-292537df7cd1
+:ROAM_REFS:  [[cite:&danovitch2004clusteringknowledge]]
+:END:
+#+title: Developmental shifts in knowledge clustering
+
+Reference: Danovitch, J. H., & Keil, F. C. (2004). Should you ask a fisherman or a biologist?: Developmental shifts in ways of clustering knowledge. Child Development, 75(3), 918-931.
+
+Two studies on western educated children suggest that kindergarteners cluster knowledge by topic or goals, but as they reach fourth or sixth grades, they begin to cluster knowledge by disciplines. This effect is most salient in physics over social psychology. In fact, even as kindergarteners, children can cluster knowledge of physics by discipline. 
+
+Two questions occur to me:
+
+1. Could the clustering into disciplines be a result of the nature of "subjects" in school such as mathematics, science, social science, language, but rarely social psychology? Controlling for this gives rise to another potential study.
+2. Could the early clustering of physics knowledge by discipline be a result of the individualistic nature of western cultures? I can imagine that makes it less likely for children to ever think about "what would others think" that might be more common for eastern cultures. Thus, a cross cultural study would be awesome.
+
+Of relevant to AI and ML might be to ponder over the ways in which [[id:a43939bc-ac6e-44e9-8182-a7ee8a7c4839][goal-based clustering differs from topic-based / LSA based clustering]].

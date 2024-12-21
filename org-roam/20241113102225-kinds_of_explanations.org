@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       0491d7b8-eb09-4d92-8e5d-63b337d3e1da
+:END:
+#+title: Kinds of Explanations
+
+Given that an explanation is a relation between descriptions (see [[id:1ba50f90-489d-4fe7-acfb-ed20a64a30a7][Description vs Explanation]]), one can ask what possible relations can hold between different descriptions?
+
+[[id:5c0294ae-ec6c-4afc-a564-f670d5b7a18c][Aristotle listed 4 kinds of irreducible causes.]]
+
+In the general case, a relation can exist between multiple different descriptions simultaneously, for example, R(A, B, C, D). But, let's assume an n-ary relation can always be written as the conjunction of multiple binary relations. (TODO: Check this assumption.)
+
+A binary relation between two entities can then broadly be:
+
+1. identity: in which case, the explanation is said to be circular
+2. non-identity: in which case, hopefully, the explanation could be adding something new
+
+The trivial implication is that a non-circular explanation always adds something.
+
+Given a biary relation (explanation) between two descriptions, one can also talk about the [[id:0c90ce1d-c3a4-4fcb-989e-d44813c5f552][strength of the relationship]], which may be a multivalued vector.

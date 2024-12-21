@@ -1,0 +1,33 @@
+:PROPERTIES:
+:ID:       cbc14d9d-5c12-4cd1-9b86-0cb8ec7c9e83
+:ROAM_REFS: [[cite:&keil2008otherknowledge]]
+:END:
+#+title: Knowledge Clustering in Other Minds
+
+Reference: Keil, F. C., Stein, C., Webb, L., Billings, V. D., & Rozenblit, L. (2008). Discerning the division of cognitive labor: An emerging understanding of how knowledge is clustered in other minds. Cognitive science, 32(2), 259-300.
+
+Seven studies are presented exploring what children know about who knows what about what. 
+
+Goals, access, objects, and disciplines are the four common ways of clusteirng knowledge. But other ways discussed include topic and schema.
+
+Early on, before the age of 10, children prefer goal-based or object-based ways of clustering. (Reference: [[id:b5f164f1-68c7-441e-ad26-292537df7cd1][Developmental shifts in knowledge clustering]])
+
+Study 1 confirms that children indeed know that certain kinds of knowledge are more related that others. Study 2 checks that this related-ness does not merely reduce to familiarity vs unfamiliarity.
+
+For a fair while, until 10 years of age or so, children use schema-based clustering as opposed to discipline-based clustering. There can be multiple such schema. (Study 3)
+
+Children also recognize that people who know about more general categories are more likely to know about underlying mechanisms and less about specific trivia. (Study 6.)
+
+* Issues / Points for Future Work
+
+It is interesitng to note that the study 5 is specifically about Latent Semantic Analysis. It attempts to check if the results in studies 1, 2 or 3 may be accounted for by LSA scores. The LSA scores were computed based on a textual corpora for (i) third grade reading level (ii) college level reading.
+
+1. Per the description, only textual data has been used as training data for LSA. Now in 2024, can we incorporate auditory data?
+2. Might the methods of 2024 change anything about study 5?
+
+Study 7 seems to use questions that are too syntactically similar. Thus, the results in study 7 may be driven by "higher level syntactic matching". An alternative study should consider more syntactically (and perhaps semantically too) diverse patterns.
+
+Other questions include:
+
+- What exactly are schemas? What exactly are causal schemas? How do they differ from a causal model like SCM?
+- Can the different ways of clustering discussed above produce [[id:205a01f2-7646-4bf6-9286-424c72069c89][different kinds of word embeddings]]?

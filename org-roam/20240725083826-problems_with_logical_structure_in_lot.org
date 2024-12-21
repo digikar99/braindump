@@ -12,7 +12,7 @@ Compared to traditional mathematical logic,
 
 It remains an open question to me which of these are bugs and which features.
 
-TODO: Are there other orthogonal ways in which cognitive inferences differ from mathematical logic, or are the above listed options mutually exhaustive.
+TODO: Are there other orthogonal ways in which cognitive inferences differ from mathematical logic, or are the above listed options mutually exhaustive. Causal (Temporal?) reasoning is another way.
 
 * References
 

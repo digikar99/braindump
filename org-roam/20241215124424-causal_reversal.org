@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       2038ff2a-dd0e-4eb5-b77b-1a73586d8bc7
+:END:
+#+title: Causal Reversal [TODO]
+
+A particular nonconceptual phenomena might be explained (conceptualized) by a particular causal model $\mathcal M_0$ with certain causal directions between variables A and B.
+
++However, the addition of another causal variable C may reverse the causal direction in $\mathcal M_0$ between A and B.+
+
+TODO:
+1. This relates to scientific research. We may find the lack of (causal) relationship in contrary to our intuitions. In order to make the model consistent with our intuition we may try adding another (causal) variable.
+2. This probably also relates to Icard, Kominsky, et al (2017) and the model of Necessity/Sufficiency.
+3. This also relates to the subtleties in modeling Mate Lengyel had mentioned: Rescorla-Wagner model only updates the weights when CS is present. But what if the CS is absent?
+   - Naively, one predicts that RW would predict that nothing will happen.
+   - Secondly, one observes that learning slows down
+   - But thirdly, if one includes other "stimuli" such as the experimeter or experimenter stimuli in the model to make predictions, then RW predicts blocking for the original CS.

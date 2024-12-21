@@ -1,0 +1,46 @@
+:PROPERTIES:
+:ID:       0c90ce1d-c3a4-4fcb-989e-d44813c5f552
+:END:
+#+title: Explanatory Coherence
+
+(See Below for [[References]].)
+
+Coherence is argued to be important by Thagard (2006), but is disputed by Keil (2006) (page 14, in the last third of Recognizing Bad Explanations and Choosing the Best Explanation).
+
+#+begin_quote
+There are, however, both conceptual and empirical problems with the idea
+that people are highly sensitive to coherence. Conceptually, there is the problem of
+“holism” (Fodor 1998): Virtually all elements eventually are causally connected to
+all others. Thus, if one were trying to explain how a multispeed bicycle works, much
+of the coherence would seem to rest in how the mechanical elements of a bicycle
+interact with each other. Yet, those metal mechanical elements are also constrained
+by elements having to do with human anatomy, physiology, and goals. Similarly,
+they are constrained by riding surfaces, economics of construction, and so on in
+an ever-widening set of relations. This holism problem may be surmountable by
+heuristics that prune out links to other elements that are below a certain level of
+density; but such heuristics are difficult to implement in practice and are highly
+sensitive to context.
+
+Empirically, a full commitment to coherence seems to evaporate when people
+are probed concerning their actual beliefs about how the world works. They seem
+to violate coherence in two ways. First, they often seem to know only fragments
+of a full system. Those fragments may consist of so few elements that they hardly
+qualify as cohering. In the extreme, people may have little more than a set of phe-
+nomenological primitives, or p-prims, that are very small pieces of understanding
+with few relations of consistency or coherence to other elements (Di Sessa 1993,
+Di Sessa et al. 2004). Second, people often seem to have sets of beliefs that directly
+contradict each other (Chin & Brewer 1993, Winer et al. 2002). The conflicts may
+be ignored until they are made explicit; and even then, any changes in beliefs
+may be resisted. Coherence may be most powerful when all relevant elements
+are explicitly considered at the same time. However, given the limits of working
+memory, the number of such elements actually considered is likely to be quite
+small. In short, coherence and systematicity influence our sense of the quality of
+explanations, but they also are limited in ways that are not yet fully understood.
+#+end_quote
+
+* References
+
+Keil, Frank C. (2006). "Explanation and Understanding". Annual Review of Psychology, 57 "227–254". http://dx.doi.org/10.1146/annurev.psych.57.102904.190100.
+
+Thagard, Paul (2006). "Evaluating Explanations in Law, Science, and Everyday Life". Current Directions in Psychological Science, 15 "141–145". http://dx.doi.org/10.1111/j.0963-7214.2006.00424.x.
+

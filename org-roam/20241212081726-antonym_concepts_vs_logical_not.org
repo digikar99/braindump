@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       60cb83d1-6c15-4135-abb3-d59ffc442a98
+:END:
+#+title: Antonym concepts vs logical NOT
+
+Naively, one may think that not(big) = small. However, 
+
+1. We can entertain contradicting thoughts; thus, we cannot be relying on boolean logic. Whatever logic humans rely on must support entertaining contradictions. See [[id:063a9025-d908-4684-8631-f320cb2841d6][Problems with Logical Structure in LOT]].
+2. See work by Uli Sauerland; particularly, children across (almost) all languages use double negation "mit ohne" during a phase of language acquisition; as if "negation" and "antonyms" are understood differently.

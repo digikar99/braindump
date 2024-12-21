@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       7682dda2-2d6a-4f94-ac56-1803e1f1fb01
+:END:
+#+title: Explanation as Joint Action
+
+Keil, Frank C. (2006). "Explanation and Understanding". Annual Review of Psychology, 57 "227–254". http://dx.doi.org/10.1146/annurev.psych.57.102904.190100.
+
+[[id:0491d7b8-eb09-4d92-8e5d-63b337d3e1da][Explanation]] allows one to relate a new piece of knowledge with what one already knows. If this gap is not filled properly, the explanation may not be perceived as good. This has been dubbed Explanatory Relevance in Keil (2006).

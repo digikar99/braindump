@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       469fd49c-22be-44db-9d44-6d930c348ba1
+:END:
+#+title: Communication to ToM/Metarepresentations
+
+There's atleast Nima Mussavifard who argues that the communication (through external symbols/representations) acted as an evolutionary pressure for the development of Metarepresentations and  Theory of Mind.
+
+Mussavifard, Nima (2023). "Metarepresenting in communication". Synthese, 202  http://dx.doi.org/10.1007/s11229-023-04420-y.

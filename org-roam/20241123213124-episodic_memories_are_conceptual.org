@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       eddedd87-1546-4458-bb1a-e545b44c8a4d
+:END:
+#+title: Episodic Memories are Conceptual 
+
+Even though our sensory data is nonconceptual, most of that data is lost. What survives in our episodic memory are only conceptualizations of that data. Such conceptualizations can permit an approximate reconstruction and also enable reinterpretation.
+
+TODO: What is that existing research on this?

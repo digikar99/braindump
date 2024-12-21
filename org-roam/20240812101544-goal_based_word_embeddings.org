@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       a43939bc-ac6e-44e9-8182-a7ee8a7c4839
+:END:
+#+title: Goal-based Word Embeddings
+
+TODO

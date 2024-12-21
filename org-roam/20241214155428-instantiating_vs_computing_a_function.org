@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       dbccf1c5-ab2a-46a1-80ea-1856e907b760
+:END:
+#+title: Instantiating vs Computing a Function
+
+#+begin_quote
+Planets going around the sun behave as /if/ they are following Newton's Laws. They are not themselves /representing or computing/ the Newton's Laws but only /instantiating/ them.
+
+- [[http://krantisaran.net/][Kranti Saran]]
+#+end_quote

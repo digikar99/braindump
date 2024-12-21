@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       d884a90c-67da-498a-810c-d5ac28a496e7
+:END:
+#+title: Model-generating Learning System
+
+This does not have an existing model, which model-based systems do have. However, it is able to generate models from raw sensory stimuli / transducers. 

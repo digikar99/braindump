@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       a3faa958-934f-470e-898d-3b38ffe853d5
+:END:
+#+title: Model
+
+A model (or equivalently, description) is necessarily an abstraction. A given spacetime happening never has a unique model or description. Yet, it can have a /canonical/ description (also see [[id:1ba50f90-489d-4fe7-acfb-ed20a64a30a7][Description vs Explanation]]), yet even such a canonical description is context-dependent. The context includes the goals, beliefs, desires, drives and drive-states of the organism beyond the traditionally considered environmental context.
+
+

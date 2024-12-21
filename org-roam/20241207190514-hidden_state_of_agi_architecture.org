@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       45c180ee-e6ec-46e4-9624-8b4ee5975a66
+:END:
+#+title: Hidden State of AGI Architecture
+
+The [[id:4fcccb03-20b4-4764-9844-801303504c93][AGI Architecture]] is given by $Y_A, S_{t+1} = f(X_P, S_t)$.
+
+For reasons of memory efficiency, it'd make sense to minimize the state S as far as possible.
+
+For a self-sufficient system, S must include:
+
+1. Battery status / Power availability
+2. 

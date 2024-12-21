@@ -1,0 +1,31 @@
+:PROPERTIES:
+:ID:       2fb9d955-4fa4-4999-8a85-47355516a65b
+:ROAM_REFS: [[cite:&Goddu2024Causal]]
+:END:
+#+title: Development of Causal Learning
+
+Reference: Goddu, M.K., Gopnik, A. The development of human causal learning and reasoning. /Nat Rev Psychol/ 3, 319–339 (2024). https://doi.org/10.1038/s44159-024-00300-5
+
+The review article argues that causal understanding in humans is depersonalized (objective) and decontextualized (general). However, this is not the case with most (all) animals [or with children?].
+
+TODO:
+
+1. The article provides pointers to articles indicating that causation might not be a natural kind. See references 18 and 22.
+
+2. The link between causal understanding, empowerment and reinforcement learning is also interesting. See second last paragraph for reference 304.
+
+* Structure of the paper
+
+** Introduction
+
+** Human-unique causal understanding
+
+** Development of human causal understanding
+
+** Causal learning in naturalistic contexts
+
+** Development of related abilities
+
+** Summary and Future directions
+
+Animals usually have only a first person notion of interventions. Some can have a third person notion too. On the other hand, [adult] humans have an depersonalized/agent-independent/objective notion of intervention. COMMENT: It is this that actually enables us to build tools. 

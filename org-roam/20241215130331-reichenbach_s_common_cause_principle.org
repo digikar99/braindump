@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       3160dcbc-b649-487e-b449-16551f117f93
+:END:
+#+title: Reichenbach's Common Cause Principle
+
+If two events are correlated, there is either a causal connection between the two events or there is a third event  (common cause) which brings about the correlation.
+
+TODO:
+1. https://link.springer.com/chapter/10.1007/978-94-010-0385-8_17
+2. https://plato.stanford.edu/entries/physics-Rpcc/

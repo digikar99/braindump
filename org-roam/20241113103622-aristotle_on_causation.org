@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       5c0294ae-ec6c-4afc-a564-f670d5b7a18c
+:END:
+#+title: Aristotle on Causation
+
+Four irreducible causes:
+
+1. Material cause: what is it made of?
+2. Formal cause: what is it?
+3. Efficient cause: where does change (or motion) come from?
+4. Final cause: what is its good / why was it made?
+
+Reference: https://plato.stanford.edu/entries/aristotle-causality/#FourCaus

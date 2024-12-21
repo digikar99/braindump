@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       f96b6b70-eae0-4a31-9028-8fe13aa698af
+:END:
+#+title: Teleological Understanding and Rationality [TODO]
+
+[[cite:&Csibra2013Teleological]]: They assume that there can actually exist a rational behavior with respect to a goal.
+
+TODO: Check whether they actually make more general claims.
+
+I'm willing to support that our perceptual-cognitive system comes up with built-in ways to detect shortest paths in visual representations but not necessarily more abstract domains.

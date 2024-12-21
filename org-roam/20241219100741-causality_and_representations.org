@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       10838396-b735-4be1-b463-ac3817baf6ad
+:END:
+#+title: Causality and Representations
+
+Given a phenomenon $\mathcal P$ in the world, it has indefinitely many representations/conceptualizations. Each representation can be understood in terms of a causal model $\mathcal M$. Causal attributions between events are with respect to the event representations involved by $\mathcal M$.
+
+If $\mathcal M$ has no event representation $A$, then the causal attribution for $A$ would be zero. However, if $\mathcal M$ is modified to $\mathcal M'$ to include $A$, then $A$ will gain a causal attribution based on the [cognitive] system's background knowledge $\mathcal K$. (TODO: What kinds of experiments can test this? This might be evident through reaction time studies or studies designed to test people's implicit biases.) 
+
+In other words, events in $\mathcal P$ do not have an inherent/objective causal status. They obtain a causal status only within one representation $\mathcal M$ amongst indefinitely many representations of $\mathcal P$.
+
+TODO: Relate this to necessary/sufficiency model by Kominsky et al.

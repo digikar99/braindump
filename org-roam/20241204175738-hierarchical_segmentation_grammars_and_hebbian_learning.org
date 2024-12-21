@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       9107e479-0a43-4d2b-b611-397e3206bf28
+:END:
+#+title: Hierarchical Segmentation, Grammars and Hebbian Learning
+
+From the Hebbian Learning Rule of "neurons that fire together wire together", it follows that stimuli that neurons that register coocurring stimuli wire together. In other words, cooccurring stimuli naturally lend themselves to segmentation, given the right kind of registrations/transduction.
+
+This segmentation can be made naturally hierarchical by stringing on multiple levels of neurons. This leads to a multilevel hebbian networks that allows segmenting higher level features.
+
+In particular, this allows segmenting phonemes, words, and grammars, and any form of regularities.
+
+TODO: Existing work on this.
+

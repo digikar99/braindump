@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       8985a6fb-87bf-433e-8dec-441302c56a22
+:END:
+#+title: Infants Intuition of Common Cause
+
+Expectation: Infants have an intuition of [[id:3160dcbc-b649-487e-b449-16551f117f93][Reichenbach's Common Cause Principle]], which they use to infer the (hidden) causal variable between two correlating events.
+
+TODO: Test this in an experiment.

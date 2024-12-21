@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       1ba50f90-489d-4fe7-acfb-ed20a64a30a7
+:END:
+#+title: Description vs Explanation
+
+Given a spacetime happening, it may be represented by a certain description. Such a description provides an /explanation/ of the spacetime happening. The description can be linguistic or nonlinguistic (structural).
+
+An /explanation/ is a relation between descriptions or between a description and a spacetime happening.
+
+For example, given a spacetime happening of "a moving chair", linguistic descriptions include:
+
+1. The chair moved.
+2. The moving chair.
+3. The chair was pushed.
+4. The wheelchair moved.
+
+And so on and so forth.
+
+For each description, one can seek yet other descriptions as explanations: Why did the chair move? Because it had wheels. Because it was pushed. Because the friction permitted it to. Thus, [[id:0491d7b8-eb09-4d92-8e5d-63b337d3e1da][explanations can be of different kinds]].
+
+The view of explanation as a relation is supported by linguistic usages such as "Now, /this/ explains ...".
